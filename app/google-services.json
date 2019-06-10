@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "264147477383",
+    "firebase_url": "https://agrimatch-694ba.firebaseio.com",
+    "project_id": "agrimatch-694ba",
+    "storage_bucket": "agrimatch-694ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264147477383:android:328fa13f817ff4f7",
+        "android_client_info": {
+          "package_name": "com.ugtechie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264147477383-hgdu2vk1tsioasocaf22u7c5voj77ah2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ugtechie",
+            "certificate_hash": "be3b49a5adba178837170a797d81f434dc7abc41"
+          }
+        },
+        {
+          "client_id": "264147477383-itjtu8stogkkoltm5mdiee6v6q0ov6fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC48MVe4CDVH2hvQJn1GGA0lSlAZc9VOiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264147477383-itjtu8stogkkoltm5mdiee6v6q0ov6fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
